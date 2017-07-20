@@ -1,0 +1,9 @@
+<templateSet group="Zenify PHP 7">
+  <template name="st" value="declare (strict_types=1);" description="" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="PHP" value="true" />
+      <option name="PHP Comment" value="false" />
+      <option name="PHP String Literal" value="false" />
+    </context>
+  </template>
+</templateSet>

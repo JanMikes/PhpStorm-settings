@@ -1,0 +1,8 @@
+<application>
+  <component name="IntentionManagerSettings">
+    <ignoreAction name="Language Injection/Inject language or reference" />
+    <ignoreAction name="PHP/Add PHPDoc comment" />
+    <ignoreAction name="PHP/Add fluent setter" />
+    <ignoreAction name="PHP/Add getter and setter" />
+  </component>
+</application>
