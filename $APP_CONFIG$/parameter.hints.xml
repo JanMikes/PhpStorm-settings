@@ -1,0 +1,9 @@
+<application>
+  <component name="ParameterNameHintsSettings">
+    <blacklists>
+      <blacklist language="PHP">
+        <added pattern="\OdbavTo\App\ApplicationException.__construct(title,detail,responseCode)" />
+      </blacklist>
+    </blacklists>
+  </component>
+</application>

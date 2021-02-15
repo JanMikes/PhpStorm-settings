@@ -1,0 +1,17 @@
+<application>
+  <component name="XDebuggerSettings">
+    <data-views />
+    <general />
+    <debuggers>
+      <debugger id="javascript">
+        <configuration>
+          <custom-object-presentation />
+          <stepping-filters>
+            <stepping-filter url-pattern="vendor/*" />
+            <stepping-filter url-pattern="composer" />
+          </stepping-filters>
+        </configuration>
+      </debugger>
+    </debuggers>
+  </component>
+</application>

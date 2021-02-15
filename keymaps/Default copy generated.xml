@@ -1,0 +1,380 @@
+<keymap version="1" name="Default copy generated" parent="Mac OS X 10.5+">
+  <action id="ActivateCommitToolWindow">
+    <keyboard-shortcut first-keystroke="meta #10000e9" />
+  </action>
+  <action id="ActivateDebugToolWindow">
+    <keyboard-shortcut first-keystroke="meta #1000159" />
+  </action>
+  <action id="ActivateFavoritesToolWindow">
+    <keyboard-shortcut first-keystroke="meta #100011b" />
+  </action>
+  <action id="ActivateFindToolWindow" />
+  <action id="ActivateProblemsViewToolWindow">
+    <keyboard-shortcut first-keystroke="meta #100017e" />
+  </action>
+  <action id="ActivateProjectToolWindow">
+    <keyboard-shortcut first-keystroke="meta add" />
+    <keyboard-shortcut first-keystroke="meta plus" />
+  </action>
+  <action id="ActivateRunToolWindow" />
+  <action id="ActivateServicesToolWindow">
+    <keyboard-shortcut first-keystroke="meta #10000e1" />
+  </action>
+  <action id="ActivateStructureToolWindow">
+    <keyboard-shortcut first-keystroke="meta #10000fd" />
+  </action>
+  <action id="ActivateTODOToolWindow" />
+  <action id="ActivateTerminalToolWindow">
+    <keyboard-shortcut first-keystroke="meta #100010d" />
+  </action>
+  <action id="ActivateVersionControlToolWindow">
+    <keyboard-shortcut first-keystroke="meta #1000161" />
+  </action>
+  <action id="Back">
+    <keyboard-shortcut first-keystroke="meta alt left" />
+    <mouse-shortcut keystroke="button4" />
+    <keyboard-shortcut first-keystroke="meta #10000fa" />
+  </action>
+  <action id="CloseActiveTab">
+    <keyboard-shortcut first-keystroke="meta w" />
+  </action>
+  <action id="CodeCompletion">
+    <keyboard-shortcut first-keystroke="ctrl space" />
+    <keyboard-shortcut first-keystroke="alt space" />
+  </action>
+  <action id="CollapseAll">
+    <keyboard-shortcut first-keystroke="meta subtract" />
+    <keyboard-shortcut first-keystroke="meta equals" />
+  </action>
+  <action id="CollapseAllRegions">
+    <keyboard-shortcut first-keystroke="shift meta subtract" />
+    <keyboard-shortcut first-keystroke="shift meta equals" />
+  </action>
+  <action id="CollapseExpandableComponent">
+    <keyboard-shortcut first-keystroke="shift enter" />
+    <keyboard-shortcut first-keystroke="meta subtract" />
+    <keyboard-shortcut first-keystroke="meta equals" />
+  </action>
+  <action id="CollapseRegion">
+    <keyboard-shortcut first-keystroke="meta subtract" />
+    <keyboard-shortcut first-keystroke="meta equals" />
+  </action>
+  <action id="CollapseRegionRecursively">
+    <keyboard-shortcut first-keystroke="meta alt subtract" />
+    <keyboard-shortcut first-keystroke="meta alt equals" />
+  </action>
+  <action id="CommentByBlockComment">
+    <keyboard-shortcut first-keystroke="meta alt divide" />
+    <keyboard-shortcut first-keystroke="shift ctrl divide" />
+    <keyboard-shortcut first-keystroke="shift meta divide" />
+    <keyboard-shortcut first-keystroke="shift meta divide" />
+    <keyboard-shortcut first-keystroke="meta alt minus" />
+    <keyboard-shortcut first-keystroke="shift ctrl minus" />
+    <keyboard-shortcut first-keystroke="shift meta minus" />
+  </action>
+  <action id="CommentByLineComment">
+    <keyboard-shortcut first-keystroke="meta divide" />
+    <keyboard-shortcut first-keystroke="meta minus" />
+  </action>
+  <action id="CompareTwoFiles" />
+  <action id="Console.TableResult.CompareCells" />
+  <action id="CopyPaths" />
+  <action id="DBNavigator.Actions.Navigation.GotoDatabaseObject" />
+  <action id="Diff.NextChange">
+    <keyboard-shortcut first-keystroke="shift meta right_parenthesis" />
+  </action>
+  <action id="Diff.PrevChange">
+    <keyboard-shortcut first-keystroke="shift meta #10000fa" />
+  </action>
+  <action id="Diff.ShowDiff" />
+  <action id="Diff.ShowSettingsPopup" />
+  <action id="DumpMLCompletionFeatures">
+    <keyboard-shortcut first-keystroke="shift meta alt #10000e9" />
+  </action>
+  <action id="DuplicatesForm.SendToLeft">
+    <keyboard-shortcut first-keystroke="meta plus" />
+  </action>
+  <action id="DuplicatesForm.SendToRight">
+    <keyboard-shortcut first-keystroke="meta #100011b" />
+  </action>
+  <action id="EditorCodeBlockEnd">
+    <keyboard-shortcut first-keystroke="meta alt right_parenthesis" />
+  </action>
+  <action id="EditorCodeBlockEndWithSelection">
+    <keyboard-shortcut first-keystroke="shift meta alt right_parenthesis" />
+  </action>
+  <action id="EditorCodeBlockStart">
+    <keyboard-shortcut first-keystroke="meta alt #10000fa" />
+  </action>
+  <action id="EditorCodeBlockStartWithSelection">
+    <keyboard-shortcut first-keystroke="shift meta alt #10000fa" />
+  </action>
+  <action id="EditorDuplicate">
+    <keyboard-shortcut first-keystroke="shift meta d" />
+  </action>
+  <action id="EditorFocusGutter">
+    <keyboard-shortcut first-keystroke="shift alt #100017e" second-keystroke="f" />
+  </action>
+  <action id="EditorShowGutterIconTooltip">
+    <keyboard-shortcut first-keystroke="shift alt #100017e" second-keystroke="t" />
+  </action>
+  <action id="EditorToggleColumnMode">
+    <keyboard-shortcut first-keystroke="shift meta #10000e1" />
+  </action>
+  <action id="EmmetNextEditPoint" />
+  <action id="EmmetPreviousEditPoint" />
+  <action id="ExpandAll">
+    <keyboard-shortcut first-keystroke="meta quote" />
+  </action>
+  <action id="ExpandAllRegions">
+    <keyboard-shortcut first-keystroke="shift meta add" />
+    <keyboard-shortcut first-keystroke="shift meta quote" />
+  </action>
+  <action id="ExpandAllToLevel1">
+    <keyboard-shortcut first-keystroke="meta alt multiply" second-keystroke="numpad1" />
+    <keyboard-shortcut first-keystroke="meta alt multiply" second-keystroke="plus" />
+  </action>
+  <action id="ExpandAllToLevel2">
+    <keyboard-shortcut first-keystroke="meta alt multiply" second-keystroke="numpad2" />
+    <keyboard-shortcut first-keystroke="meta alt multiply" second-keystroke="#100011b" />
+  </action>
+  <action id="ExpandAllToLevel3">
+    <keyboard-shortcut first-keystroke="meta alt multiply" second-keystroke="numpad3" />
+    <keyboard-shortcut first-keystroke="meta alt multiply" second-keystroke="#1000161" />
+  </action>
+  <action id="ExpandAllToLevel4">
+    <keyboard-shortcut first-keystroke="meta alt multiply" second-keystroke="numpad4" />
+    <keyboard-shortcut first-keystroke="meta alt multiply" second-keystroke="#100010d" />
+  </action>
+  <action id="ExpandAllToLevel5">
+    <keyboard-shortcut first-keystroke="meta alt multiply" second-keystroke="numpad5" />
+    <keyboard-shortcut first-keystroke="meta alt multiply" second-keystroke="#1000159" />
+  </action>
+  <action id="ExpandExpandableComponent">
+    <keyboard-shortcut first-keystroke="shift enter" />
+    <keyboard-shortcut first-keystroke="meta add" />
+    <keyboard-shortcut first-keystroke="meta quote" />
+  </action>
+  <action id="ExpandRegion">
+    <keyboard-shortcut first-keystroke="meta quote" />
+  </action>
+  <action id="ExpandRegionRecursively">
+    <keyboard-shortcut first-keystroke="meta alt add" />
+    <keyboard-shortcut first-keystroke="meta alt quote" />
+  </action>
+  <action id="ExpandToLevel1">
+    <keyboard-shortcut first-keystroke="meta multiply" second-keystroke="numpad1" />
+    <keyboard-shortcut first-keystroke="meta multiply" second-keystroke="plus" />
+  </action>
+  <action id="ExpandToLevel2">
+    <keyboard-shortcut first-keystroke="meta multiply" second-keystroke="numpad2" />
+    <keyboard-shortcut first-keystroke="meta multiply" second-keystroke="#100011b" />
+  </action>
+  <action id="ExpandToLevel3">
+    <keyboard-shortcut first-keystroke="meta multiply" second-keystroke="numpad3" />
+    <keyboard-shortcut first-keystroke="meta multiply" second-keystroke="#1000161" />
+  </action>
+  <action id="ExpandToLevel4">
+    <keyboard-shortcut first-keystroke="meta multiply" second-keystroke="numpad4" />
+    <keyboard-shortcut first-keystroke="meta multiply" second-keystroke="#100010d" />
+  </action>
+  <action id="ExpandToLevel5">
+    <keyboard-shortcut first-keystroke="meta multiply" second-keystroke="numpad5" />
+    <keyboard-shortcut first-keystroke="meta multiply" second-keystroke="#1000159" />
+  </action>
+  <action id="ExtractMethod">
+    <keyboard-shortcut first-keystroke="meta alt m" />
+    <keyboard-shortcut first-keystroke="shift meta c" />
+  </action>
+  <action id="FileChooser.GotoDesktop" />
+  <action id="FileChooser.GotoHome">
+    <keyboard-shortcut first-keystroke="meta plus" />
+  </action>
+  <action id="FileChooser.GotoModule" />
+  <action id="FileChooser.GotoProject">
+    <keyboard-shortcut first-keystroke="meta #100011b" />
+  </action>
+  <action id="FileChooser.TogglePathShowing" />
+  <action id="Forward">
+    <keyboard-shortcut first-keystroke="meta alt right" />
+    <mouse-shortcut keystroke="button5" />
+    <keyboard-shortcut first-keystroke="meta right_parenthesis" />
+  </action>
+  <action id="GotoBookmark0">
+    <keyboard-shortcut first-keystroke="ctrl #10000e9" />
+  </action>
+  <action id="GotoBookmark1">
+    <keyboard-shortcut first-keystroke="ctrl plus" />
+  </action>
+  <action id="GotoBookmark2">
+    <keyboard-shortcut first-keystroke="ctrl #100011b" />
+  </action>
+  <action id="GotoBookmark3">
+    <keyboard-shortcut first-keystroke="ctrl #1000161" />
+  </action>
+  <action id="GotoBookmark4">
+    <keyboard-shortcut first-keystroke="ctrl #100010d" />
+  </action>
+  <action id="GotoBookmark5">
+    <keyboard-shortcut first-keystroke="ctrl #1000159" />
+  </action>
+  <action id="GotoBookmark6">
+    <keyboard-shortcut first-keystroke="ctrl #100017e" />
+  </action>
+  <action id="GotoBookmark7">
+    <keyboard-shortcut first-keystroke="ctrl #10000fd" />
+  </action>
+  <action id="GotoBookmark8">
+    <keyboard-shortcut first-keystroke="ctrl #10000e1" />
+  </action>
+  <action id="GotoBookmark9">
+    <keyboard-shortcut first-keystroke="ctrl #10000ed" />
+  </action>
+  <action id="GotoFile">
+    <keyboard-shortcut first-keystroke="shift meta o" />
+    <keyboard-shortcut first-keystroke="meta p" />
+  </action>
+  <action id="GotoNextElementUnderCaretUsage" />
+  <action id="GotoPrevElementUnderCaretUsage" />
+  <action id="GotoUrlAction">
+    <keyboard-shortcut first-keystroke="shift meta #10000a8" />
+  </action>
+  <action id="Graph.ActualSize">
+    <keyboard-shortcut first-keystroke="meta divide" />
+    <keyboard-shortcut first-keystroke="meta minus" />
+  </action>
+  <action id="Graph.ZoomIn">
+    <keyboard-shortcut first-keystroke="add" />
+    <keyboard-shortcut first-keystroke="quote" />
+  </action>
+  <action id="Graph.ZoomOut">
+    <keyboard-shortcut first-keystroke="subtract" />
+    <keyboard-shortcut first-keystroke="equals" />
+  </action>
+  <action id="HippieBackwardCompletion">
+    <keyboard-shortcut first-keystroke="shift alt minus" />
+  </action>
+  <action id="HippieCompletion">
+    <keyboard-shortcut first-keystroke="alt minus" />
+  </action>
+  <action id="Images.Editor.ActualSize">
+    <keyboard-shortcut first-keystroke="meta divide" />
+    <keyboard-shortcut first-keystroke="meta minus" />
+  </action>
+  <action id="Images.Editor.ToggleGrid">
+    <keyboard-shortcut first-keystroke="meta #10000a7" />
+  </action>
+  <action id="Images.Editor.ZoomIn">
+    <keyboard-shortcut first-keystroke="meta quote" />
+  </action>
+  <action id="IntroduceVariable">
+    <keyboard-shortcut first-keystroke="meta alt v" />
+    <keyboard-shortcut first-keystroke="shift meta v" />
+  </action>
+  <action id="MaintenanceAction">
+    <keyboard-shortcut first-keystroke="shift meta alt minus" />
+  </action>
+  <action id="MaximizeToolWindow">
+    <keyboard-shortcut first-keystroke="shift meta #10000a7" />
+  </action>
+  <action id="NextProjectWindow">
+    <keyboard-shortcut first-keystroke="meta alt back_slash" />
+  </action>
+  <action id="NextTab">
+    <keyboard-shortcut first-keystroke="ctrl right" />
+    <keyboard-shortcut first-keystroke="shift meta right_parenthesis" />
+  </action>
+  <action id="NextWindow">
+    <keyboard-shortcut first-keystroke="meta back_slash" />
+  </action>
+  <action id="ParameterInfo" />
+  <action id="PasteMultiple" />
+  <action id="PreviousProjectWindow">
+    <keyboard-shortcut first-keystroke="shift meta alt back_slash" />
+  </action>
+  <action id="PreviousTab">
+    <keyboard-shortcut first-keystroke="ctrl left" />
+    <keyboard-shortcut first-keystroke="shift meta #10000fa" />
+  </action>
+  <action id="PreviousWindow">
+    <keyboard-shortcut first-keystroke="shift meta back_slash" />
+  </action>
+  <action id="QuickChangeScheme">
+    <keyboard-shortcut first-keystroke="ctrl back_slash" />
+  </action>
+  <action id="QuickImplementations">
+    <keyboard-shortcut first-keystroke="meta y" />
+  </action>
+  <action id="RecentChangedFiles" />
+  <action id="RecentProjectListGroup">
+    <keyboard-shortcut first-keystroke="shift meta e" />
+  </action>
+  <action id="Resume">
+    <keyboard-shortcut first-keystroke="meta alt r" />
+    <keyboard-shortcut first-keystroke="ctrl alt enter" />
+  </action>
+  <action id="Runner.CloseView">
+    <keyboard-shortcut first-keystroke="meta w" />
+  </action>
+  <action id="SelectNextOccurrence">
+    <keyboard-shortcut first-keystroke="meta d" />
+  </action>
+  <action id="SendEOF" />
+  <action id="ShelvedChanges.Diff" />
+  <action id="ShowProjectStructureSettings">
+    <keyboard-shortcut first-keystroke="meta #100016f" />
+  </action>
+  <action id="SmartStepInto">
+    <keyboard-shortcut first-keystroke="ctrl alt down" />
+  </action>
+  <action id="StepInto" />
+  <action id="StepOut">
+    <keyboard-shortcut first-keystroke="ctrl alt up" />
+  </action>
+  <action id="StepOver">
+    <keyboard-shortcut first-keystroke="ctrl alt right" />
+  </action>
+  <action id="Stop">
+    <keyboard-shortcut first-keystroke="ctrl alt left" />
+  </action>
+  <action id="SwitchApply">
+    <keyboard-shortcut first-keystroke="ctrl alt enter" />
+  </action>
+  <action id="ToggleBookmark0">
+    <keyboard-shortcut first-keystroke="shift ctrl #10000e9" />
+  </action>
+  <action id="ToggleBookmark1">
+    <keyboard-shortcut first-keystroke="shift ctrl plus" />
+  </action>
+  <action id="ToggleBookmark2">
+    <keyboard-shortcut first-keystroke="shift ctrl #100011b" />
+  </action>
+  <action id="ToggleBookmark3">
+    <keyboard-shortcut first-keystroke="shift ctrl #1000161" />
+  </action>
+  <action id="ToggleBookmark4">
+    <keyboard-shortcut first-keystroke="shift ctrl #100010d" />
+  </action>
+  <action id="ToggleBookmark5">
+    <keyboard-shortcut first-keystroke="shift ctrl #1000159" />
+  </action>
+  <action id="ToggleBookmark6">
+    <keyboard-shortcut first-keystroke="shift ctrl #100017e" />
+  </action>
+  <action id="ToggleBookmark7">
+    <keyboard-shortcut first-keystroke="shift ctrl #10000fd" />
+  </action>
+  <action id="ToggleBookmark8">
+    <keyboard-shortcut first-keystroke="shift ctrl #10000e1" />
+  </action>
+  <action id="ToggleBookmark9">
+    <keyboard-shortcut first-keystroke="shift ctrl #10000ed" />
+  </action>
+  <action id="Uml.ShowDiff" />
+  <action id="XDebugger.CopyWatch" />
+  <action id="ZoomCurrentWindow">
+    <keyboard-shortcut first-keystroke="ctrl meta quote" />
+  </action>
+  <action id="openAssertEqualsDiff" />
+  <action id="org.intellij.plugins.markdown.ui.actions.editorLayout.CyclicSplitLayoutChangeAction" />
+</keymap>
