@@ -57,6 +57,7 @@
       <mapping pattern="dictionary" type="PLAIN_TEXT" />
       <mapping pattern="DOKKU_SCALE" type="PLAIN_TEXT" />
       <mapping pattern="COMMIT_SHA" type="PLAIN_TEXT" />
+      <mapping pattern=".current_coin" type="PLAIN_TEXT" />
       <mapping pattern="CNAME" type="PLAIN_TEXT" />
       <mapping pattern="inner-tunnel" type="PLAIN_TEXT" />
       <mapping pattern="_67a3435026009bd7f5d34ea7fa734bd0" type="PLAIN_TEXT" />
